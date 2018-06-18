@@ -10,6 +10,7 @@ __all__ = ['EMOJI_UNICODE', 'UNICODE_EMOJI', 'EMOJI_ALIAS_UNICODE', 'UNICODE_EMO
 
 
 EMOJI_UNICODE = {
+    u':first_place:': u'\U0001F947',
     u':1st_place_medal:': u'\U0001F947',
     u':2nd_place_medal:': u'\U0001F948',
     u':3rd_place_medal:': u'\U0001F949',
